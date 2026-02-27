@@ -1,0 +1,14 @@
+title: The Unreplaceable Factor
+
+description: A description of your site.
+
+baseurl: ""
+
+url: "https://yourusername.github.io"  # the base hostname & protocol for your site
+
+theme: jekyll-theme-minimal  # you can change this to any supported Jekyll theme
+
+include:
+  - unreplaceable-factor.html
+
+permalink: /:categories/:title/  # set pretty permalinks
